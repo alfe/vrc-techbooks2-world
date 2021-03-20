@@ -15,19 +15,19 @@ https://github.com/alfe/vrc-techbooks
 
 ## How to use
 
-1. Make unity project
+1. Make unity project  
 The project need to create with unity 2018.4.20f.
 
-1. Import VRChat SDK 3.0
+1. Import VRChat SDK 3.0  
 Download from https://vrchat.com/home/download
 
-1. Import UdonSharp
+1. Import UdonSharp  
 Download from https://github.com/MerlinVR/UdonSharp
 
-1. Import vrc_tech_book2_2018_distoribute.unitypackage
+1. Import vrc_tech_book2_2018_distoribute.unitypackage  
 Download from https://github.com/alfe/vrc-techbooks2-world/releases/
 
-1. Build & Test
+1. Build & Test  
 🎉
 
 Set background music and replace booth images as needed.
